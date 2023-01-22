@@ -18,5 +18,5 @@ export const TypingText = ({title, textStyles}) => (
 );
 
 export const TitleText = ({title, TypingText}) => (
-  <h2>Title Text</h2>
+  <h2></h2>
 );
