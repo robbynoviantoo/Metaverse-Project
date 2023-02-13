@@ -72,17 +72,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'http://twitter.com/robbynoviantoo',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: 'https://www.linkedin.com/in/heyitsrobby/',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: 'https://www.instagram.com/robbynovianto_/',
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: 'https://www.facebook.com/robbynoviantoo',
   },
 ];

@@ -85,14 +85,14 @@
 }
 
 .feedback-gradient {
-  position: absolute;
-  width: 200px;
-  height: 316px;
+  position: relative;
+  width: 100px;
+  height: 100px;
   left: 0px;
   top: 0px;
 
   background: #8d39a3;
-  filter: blur(175px);
+  filter: blur(80px);
 }
 
 .footer-gradient {
